@@ -1,0 +1,8 @@
+ndm:
+  image:
+    tag: 26
+    repository: "https://sfs-ins8dev-harbor.kla-tencor.com/insight_dev/ndm"
+nsm:
+  image:
+    tag: 11
+    repository: "https://sfs-ins8dev-harbor.kla-tencor.com/insight_dev/nsm"

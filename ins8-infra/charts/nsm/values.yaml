@@ -1,0 +1,3 @@
+image:
+  tag: 8
+  repository: "https://sfs-ins8dev-harbor.kla-tencor.com/insight_dev/nsm"
