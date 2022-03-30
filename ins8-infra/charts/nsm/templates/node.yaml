@@ -4,5 +4,5 @@ metadata:
   name: nsm
   namespace: {{ .Release.Namespace }}
 data:
-  imageTag: {{ $.Values.image.tag }}
   imageRepo: {{ $.Values.image.repository }}
+  imageTag: {{ $.Values.image.tag }}
