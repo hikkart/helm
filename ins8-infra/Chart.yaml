@@ -2,15 +2,15 @@ apiVersion: v2
 name: ins8-infra-sample
 description: Surfscan Insight Infra Modules - Save test
 type: application
-version: 0.1.0
+version: 0.1.1
 appVersion: "Dev"
-# dependencies:
-#   #NDM
-#   - name: ndm
-#     version: 0.1.0
-#     repository: https://sfs-ins8dev-harbor.kla-tencor.com/chartrepo/test
-#   # NSM
-#   - name: nsm
-#     version: 0.1.0
-#     repository: https://sfs-ins8dev-harbor.kla-tencor.com/chartrepo/test
+dependencies:
+  #NDM
+  - name: ndm
+    version: 0.1.0
+    # repository: https://sfs-ins8dev-harbor.kla-tencor.com/chartrepo/test
+  # NSM
+  - name: nsm
+    version: 0.1.0
+    # repository: https://sfs-ins8dev-harbor.kla-tencor.com/chartrepo/test
 

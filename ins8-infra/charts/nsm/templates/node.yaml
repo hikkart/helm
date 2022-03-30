@@ -5,4 +5,4 @@ metadata:
   namespace: {{ .Release.Namespace }}
 data:
   imageRepo: {{ $.Values.image.repository }}
-  imageTag: {{ $.Values.image.tag }}
+  imageTag: {{ $.Values.image.tag | quote }}
