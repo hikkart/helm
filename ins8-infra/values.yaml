@@ -4,5 +4,5 @@ ndm:
     repository: "https://sfs-ins8dev-harbor.kla-tencor.com/insight_dev/ndm"
 nsm:
   image:
-    tag: 11
+    tag: 10
     repository: "https://sfs-ins8dev-harbor.kla-tencor.com/insight_dev/nsm"
