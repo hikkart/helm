@@ -2,7 +2,7 @@ apiVersion: v2
 name: ins8-infra-sample
 description: Surfscan Insight Infra Modules - Save test
 type: application
-version: 0.1.4
+version: 0.1.5
 appVersion: "Dev"
 dependencies:
   #NDM
